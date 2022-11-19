@@ -6,7 +6,7 @@ public class Main {
         System.out.println("With 0 being Sunday and 6 being Saturday, enter a number");
         int dayNumber = scanner.nextInt();
 
-        determineNameOfDay(dayNumber);
+        System.out.println(determineNameOfDay(dayNumber));
 //
 //        if (isWeekDay(dayNumber)){
 //            System.out.println("Weekday");
