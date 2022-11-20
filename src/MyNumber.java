@@ -19,10 +19,14 @@ public class MyNumber {
         return sum;
     }
 
-//    public int sumOfDivisors(){
-//
-//    }
-//
+    public int sumOfDivisors(){
+        int sum = 0;
+        for(int i=2;i<this.num;i++){
+            if (num%i ==0) sum += i;
+        }
+        return sum;
+    }
+
     public void printANumberTriangle(){
         String numTriangle = "";
         for (int i = 1; i<=this.num;i++) {
