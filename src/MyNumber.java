@@ -32,7 +32,9 @@ public class MyNumber {
         for (int i = 1; i<=this.num;i++) {
             numTriangle += " " + i;
             System.out.println(numTriangle);
+
         }
     }
 
 }
+
