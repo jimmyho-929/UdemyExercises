@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="60e6d47d-81f5-4de3-bd5d-8e29946cb6cb" name="Changes" comment="do while loop">
-      <change afterPath="$PROJECT_DIR$/src/stringRunner.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="60e6d47d-81f5-4de3-bd5d-8e29946cb6cb" name="Changes" comment="print string char loop" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -92,7 +89,14 @@
       <option name="project" value="LOCAL" />
       <updated>1669087083324</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="print string char loop">
+      <created>1669699691319</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1669699691319</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -113,6 +117,7 @@
     <MESSAGE value="filled in sumOfDivisors function" />
     <MESSAGE value="while loops" />
     <MESSAGE value="do while loop" />
-    <option name="LAST_COMMIT_MESSAGE" value="do while loop" />
+    <MESSAGE value="print string char loop" />
+    <option name="LAST_COMMIT_MESSAGE" value="print string char loop" />
   </component>
 </project>
