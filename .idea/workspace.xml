@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="60e6d47d-81f5-4de3-bd5d-8e29946cb6cb" name="Changes" comment="print string char loop" />
+    <list default="true" id="60e6d47d-81f5-4de3-bd5d-8e29946cb6cb" name="Changes" comment="learned about date and time in java... put 10,000 hours into learning software development!">
+      <change afterPath="$PROJECT_DIR$/src/ArrayRunner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -96,7 +99,14 @@
       <option name="project" value="LOCAL" />
       <updated>1669699691319</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="learned about date and time in java... put 10,000 hours into learning software development!">
+      <created>1669862736277</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1669862736277</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -118,6 +128,7 @@
     <MESSAGE value="while loops" />
     <MESSAGE value="do while loop" />
     <MESSAGE value="print string char loop" />
-    <option name="LAST_COMMIT_MESSAGE" value="print string char loop" />
+    <MESSAGE value="learned about date and time in java... put 10,000 hours into learning software development!" />
+    <option name="LAST_COMMIT_MESSAGE" value="learned about date and time in java... put 10,000 hours into learning software development!" />
   </component>
 </project>
