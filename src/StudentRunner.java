@@ -5,7 +5,7 @@ public class StudentRunner {
 
 
 
-        Student student = new Student("Jimmy", marks(80, 95, 100,12,333,123455,123));
+        Student student = new Student("Jimmy", 80, 95, 100,12,333,123455,123);
 
 
         int number = student.getNumberOfMarks();
@@ -20,10 +20,6 @@ public class StudentRunner {
         System.out.println(minMark);
         System.out.println(avg);
 
-    }
-
-    static int[] marks(int... values){
-        return values;
     }
 
 }
