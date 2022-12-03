@@ -2,7 +2,11 @@ import java.math.BigDecimal;
 
 public class StudentRunner {
     public static void main(String[] args) {
-        Student student = new Student("Jimmy", new int[]{80, 95, 100});
+
+
+
+        Student student = new Student("Jimmy", marks(80, 95, 100,12,333,123455,123));
+
 
         int number = student.getNumberOfMarks();
         int sum = student.totalSumOfMarks();
@@ -15,6 +19,11 @@ public class StudentRunner {
         System.out.println(maxMark);
         System.out.println(minMark);
         System.out.println(avg);
+
+    }
+
+    static int[] marks(int... values){
+        return values;
     }
 
 }
