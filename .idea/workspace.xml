@@ -1,10 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="60e6d47d-81f5-4de3-bd5d-8e29946cb6cb" name="Changes" comment="array exercise solution">
-      <change afterPath="$PROJECT_DIR$/src/Fan.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Rectangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/RectangleRunner.java" afterDir="false" />
+    <list default="true" id="60e6d47d-81f5-4de3-bd5d-8e29946cb6cb" name="Changes" comment="OOP exercise refresher">
+      <change afterPath="$PROJECT_DIR$/src/Address.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BookRunner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Customer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CustomerRunner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Review.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -43,6 +46,11 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;editing.templates&quot;
   }
 }</component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -150,7 +158,14 @@
       <option name="project" value="LOCAL" />
       <updated>1670470412499</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="OOP exercise refresher">
+      <created>1670558066072</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1670558066072</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -180,6 +195,7 @@
     <MESSAGE value="array exercise. expected result, however need to debug" />
     <MESSAGE value="array exercise" />
     <MESSAGE value="array exercise solution. introduced to ArrayList" />
-    <option name="LAST_COMMIT_MESSAGE" value="array exercise solution. introduced to ArrayList" />
+    <MESSAGE value="OOP exercise refresher" />
+    <option name="LAST_COMMIT_MESSAGE" value="OOP exercise refresher" />
   </component>
 </project>
