@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="60e6d47d-81f5-4de3-bd5d-8e29946cb6cb" name="Changes" comment="Object composition exercise">
-      <change afterPath="$PROJECT_DIR$/src/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/EmployerRunner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Person.java" afterDir="false" />
+    <list default="true" id="60e6d47d-81f5-4de3-bd5d-8e29946cb6cb" name="Changes" comment="inheritor exercise">
+      <change afterPath="$PROJECT_DIR$/src/ChessGame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/GameRunner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/GamingConsole.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MarioGame.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/BookRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BookRunner.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,6 +19,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -170,7 +171,14 @@
       <option name="project" value="LOCAL" />
       <updated>1671013393410</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="inheritor exercise">
+      <created>1672262796158</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1672262796158</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -202,6 +210,7 @@
     <MESSAGE value="array exercise solution. introduced to ArrayList" />
     <MESSAGE value="OOP exercise refresher" />
     <MESSAGE value="Object composition exercise" />
-    <option name="LAST_COMMIT_MESSAGE" value="Object composition exercise" />
+    <MESSAGE value="inheritor exercise" />
+    <option name="LAST_COMMIT_MESSAGE" value="inheritor exercise" />
   </component>
 </project>
